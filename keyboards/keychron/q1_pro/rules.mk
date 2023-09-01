@@ -6,4 +6,4 @@ SRC += matrix.c
 
 include keyboards/keychron/bluetooth/bluetooth.mk
 
-
+DEBOUNCE_TYPE = sym_eager_pk  # Added to lower latency

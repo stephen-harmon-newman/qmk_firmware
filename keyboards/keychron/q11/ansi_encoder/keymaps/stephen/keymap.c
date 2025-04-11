@@ -55,7 +55,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         RM_TOGG,  _______,  KC_BRID,  KC_BRIU,  KC_TASK,  KC_FLXP,  RM_VALD,   RM_VALU,  KC_MPRV,  KC_MPLY,  KC_MNXT,  KC_MUTE,  KC_VOLD,    KC_VOLU,  _______,  _______,  RM_TOGG,
         _______,  _______,  RM_NEXT,  RM_PREV,  RM_VALU,  RM_VALD,  RM_HUEU,   RM_HUED,  RM_SATU,  RM_SATD,  RM_SPDU,  RM_SPDD,  _______,    _______,  _______,            _______,
         _______,  _______,  _______,  KC_UP,    _______,  _______,  _______,   _______,  LSFT(KC_9),  LSFT(KC_LBRC),  KC_LBRC,  _______,  _______,    _______,  _______,            _______,
-        _______,  _______,  KC_LEFT,  KC_DOWN,  KC_RGHT,  _______,  _______,   _______,  LSFT(KC_0),  LSFT(KC_LBRC),  KC_RBRC,  _______,  _______,              _______,            _______,
+        _______,  _______,  KC_LEFT,  KC_DOWN,  KC_RGHT,  _______,  _______,   _______,  LSFT(KC_0),  LSFT(KC_RBRC),  KC_RBRC,  _______,  _______,              _______,            _______,
         _______,  _______,            _______,  _______,  _______,  _______,   _______,  NK_TOGG,  _______,  _______,  _______,  _______,              _______,  _______,
         _______,  _______,  _______,  _______,  _______,            _______,                       _______,            _______,  _______,    _______,  _______,  _______,  _______),
 };
